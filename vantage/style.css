@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
